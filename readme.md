@@ -3,14 +3,12 @@
 Bu proje, **Node.js** ve **Nodemailer** kullanarak **Gmail SMTP** üzerinden e-posta göndermeyi sağlar.  
 Özellikle **hesap doğrulama, parola sıfırlama ve bildirim e-postaları** gibi işlemler için uygundur.  
 
-![Nodemailer](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Nodemailer.png/320px-Nodemailer.png)
 
 ---
 
 ## 📌 Özellikler
 
 ✔️ Gmail SMTP kullanarak e-posta gönderme  
-✔️ HTML formatında şık e-postalar  
 ✔️ Hesap doğrulama kodu içeren dinamik e-postalar  
 ✔️ Kolay kurulum ve kullanım  
 
