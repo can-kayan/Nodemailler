@@ -2,6 +2,7 @@
 
 Bu proje, **Node.js** ve **Nodemailer** kullanarak **Gmail SMTP** üzerinden e-posta göndermeyi sağlar.  
 Özellikle **hesap doğrulama, parola sıfırlama ve bildirim e-postaları** gibi işlemler için uygundur.  
+**Html kısmını özelleştirerek** istediğiniz türde mail gönderebilirsiniz.
 
 
 ---
@@ -44,7 +45,11 @@ Bu projeyi kullanmak için şunlar gereklidir:
 
 ```sh
 git clone https://github.com/can-kayan/Nodemailler
+```
+```sh
 cd nodemailer-project
+```
+```sh
 npm install
 ```
 
