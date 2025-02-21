@@ -47,7 +47,7 @@ Bu projeyi kullanmak için şunlar gereklidir:
 git clone https://github.com/can-kayan/Nodemailler
 ```
 ```sh
-cd nodemailer-project
+cd nodemailler
 ```
 ```sh
 npm install
