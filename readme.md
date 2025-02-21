@@ -43,10 +43,10 @@ Bu projeyi kullanmak için şunlar gereklidir:
 ### 3️⃣ Projeyi Klonla ve Bağımlılıkları Yükle
 
 ```sh
-git clone https://github.com/kullaniciadi/nodemailler.git
+git clone https://github.com/can-kayan/Nodemailler
 cd nodemailer-project
 npm install
-
+```
 
 ### 4️⃣ Çevre Değişkenleri (.env) Ayarla  
 
@@ -55,10 +55,11 @@ Proje dizininde **`.env`** adında bir dosya oluştur ve aşağıdaki bilgileri 
 ```sh
 EMAIL_USER=seninmail@gmail.com
 EMAIL_PASS=uygulama_sifren
-
+```
 ### 5️⃣ Projeyi Çalıştır  
 
 Terminali aç ve aşağıdaki komutu çalıştır:  
 
 ```sh
 node index.js
+```
