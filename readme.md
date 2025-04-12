@@ -23,7 +23,7 @@ You can customize the **HTML content** to send any type of email you want.
 
 ## 🚀 Setup & Usage
 
-### 1️⃣Requirements
+### 1️⃣Requirements:
 
  To use this project, make sure you have(Bu projeyi kullanmak için şunlar gereklidir):
 
@@ -40,8 +40,8 @@ You can customize the **HTML content** to send any type of email you want.
 2. Click the **Security / Güvenlik** tab.  
 3. Enable **"two-Step Verification" / "İki Adımlı Doğrulama"**.  
 4. Go to the **"App Passwords" / "Uygulama Şifreleri"** section.  
-5. Under **"Select app" / "Uygulama Seç"**, choose **Mail**.  and under **Select device / Cihaz Seç** , choose **Windows Bilgisayar** or **Mac**.  
-6. Click **"Generate" / "Oluştur"** to receive a **16-character password**.  
+5. Under **"Select app"**, choose **Mail**.  and under **Select device** , choose **Windows Computer** or **Mac**.  
+6. Click **"Generate"** to receive a **16-character password**.  
 7. This password will be used in your **`.env`** file.  
 
 ---
@@ -59,8 +59,7 @@ npm install
 ```
 
 ### 4️⃣Set Up Environment Variables ".env":  
-Create a file named **`.env`** in the root directory and add the following / 
-Proje dizininde **`.env`** adında bir dosya oluştur ve aşağıdaki bilgileri ekle:  
+Create a file named **`.env`** in the root directory and add the following:  
 
 ```sh
 EMAIL_USER=your_email@gmail.com
